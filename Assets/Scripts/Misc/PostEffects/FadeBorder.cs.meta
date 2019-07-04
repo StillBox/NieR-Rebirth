@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f43be2d0ff3c1d942b15b89f2c785a3f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fadeBorderShader: {fileID: 4800000, guid: 16429157f2137c9499bb9291daf2db7f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

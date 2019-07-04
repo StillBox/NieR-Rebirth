@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1631406593475664}
+  m_IsPrefabAsset: 1
+--- !u!1 &1631406593475664
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4308830020747200}
+  - component: {fileID: 114645126082448620}
+  m_Layer: 0
+  m_Name: EffectManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4308830020747200
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1631406593475664}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114645126082448620
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1631406593475664}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f6f58a06a3763e4da5a77269787ec78, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  explosionS: {fileID: 114252214789892468, guid: ba1f342f60d4f8043bffb14a4986082f,
+    type: 2}
+  explosionL: {fileID: 114517849667519350, guid: 3418190e0575af442a6a41b24322af56,
+    type: 2}
+  explosionCube: {fileID: 114295496983770070, guid: f76bc724dc895f846810848e9f0ddb67,
+    type: 2}
+  explosionSoft: {fileID: 114136671026278628, guid: 2096487c7158e424a8f56bed7e75e935,
+    type: 2}
+  explosionHard: {fileID: 114050834642863616, guid: f302c60ab0abe1a46b7ea1dbc74bbcff,
+    type: 2}
+  residue: {fileID: 114342791093055954, guid: 57d43e864605f364faf50ad33edbee45, type: 2}
+  lightBeam: {fileID: 114674550590946052, guid: dc0078a29267a3749942f8e3b810dcdf,
+    type: 2}
+  searchLight: {fileID: 114087366451341356, guid: 97557931823264f43931b777b1563841,
+    type: 2}
+  searchLightWhite: {fileID: 114713284572558860, guid: e993c967a0092dd45915f4553ef82ce0,
+    type: 2}
+  warningRegion: {fileID: 114709855996241832, guid: 9f3b2157a46b4894d93079be7617cafd,
+    type: 2}

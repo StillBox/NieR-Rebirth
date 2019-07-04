@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 53129c1d28e4b484b8e9428bb516ba9f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - snowflakeShader: {fileID: 4800000, guid: 62f655131d0e41b4e87faea52a2e2df4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

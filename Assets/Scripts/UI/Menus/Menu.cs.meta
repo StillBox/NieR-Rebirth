@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d14084e879136314c88eb9eb1ea3fce5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - emptyButtonPrefab: {fileID: 114604862204231298, guid: a86853c555b9fc24c91aabd5752b5825,
+      type: 2}
+  - selectOnUp: {instanceID: 0}
+  - selectOnDown: {instanceID: 0}
+  - selectOnLeft: {instanceID: 0}
+  - selectOnRight: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
