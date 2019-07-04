@@ -17,5 +17,5 @@ Containing three extra stages for A2, Devola/Popola and Emil.
 ## UI and Models
 Imitation of NieR Automata.
 
-### Music and sound
+## Music and sound
 All from NieR Automata.
